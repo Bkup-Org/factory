@@ -1,0 +1,11 @@
+C:\Users\hp\source\repos\FactoryPatronDiseno\FactoryPatronDiseno\bin\Debug\netcoreapp3.0\FactoryPatronDiseno.exe
+C:\Users\hp\source\repos\FactoryPatronDiseno\FactoryPatronDiseno\bin\Debug\netcoreapp3.0\FactoryPatronDiseno.deps.json
+C:\Users\hp\source\repos\FactoryPatronDiseno\FactoryPatronDiseno\bin\Debug\netcoreapp3.0\FactoryPatronDiseno.runtimeconfig.json
+C:\Users\hp\source\repos\FactoryPatronDiseno\FactoryPatronDiseno\bin\Debug\netcoreapp3.0\FactoryPatronDiseno.runtimeconfig.dev.json
+C:\Users\hp\source\repos\FactoryPatronDiseno\FactoryPatronDiseno\bin\Debug\netcoreapp3.0\FactoryPatronDiseno.dll
+C:\Users\hp\source\repos\FactoryPatronDiseno\FactoryPatronDiseno\bin\Debug\netcoreapp3.0\FactoryPatronDiseno.pdb
+C:\Users\hp\source\repos\FactoryPatronDiseno\FactoryPatronDiseno\obj\Debug\netcoreapp3.0\FactoryPatronDiseno.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\FactoryPatronDiseno\FactoryPatronDiseno\obj\Debug\netcoreapp3.0\FactoryPatronDiseno.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\FactoryPatronDiseno\FactoryPatronDiseno\obj\Debug\netcoreapp3.0\FactoryPatronDiseno.AssemblyInfo.cs
+C:\Users\hp\source\repos\FactoryPatronDiseno\FactoryPatronDiseno\obj\Debug\netcoreapp3.0\FactoryPatronDiseno.dll
+C:\Users\hp\source\repos\FactoryPatronDiseno\FactoryPatronDiseno\obj\Debug\netcoreapp3.0\FactoryPatronDiseno.pdb
